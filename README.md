@@ -4,8 +4,8 @@ Search Github user's favourite language by integrating Github RestFul API servic
 
 Technologies Used
 
-ASP.net
-C#
+ASP.net, 
+C#, 
 HTML/CSS
 
 How to run
