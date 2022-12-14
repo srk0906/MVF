@@ -1,0 +1,14 @@
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\GitHub.FavLanguage.UnitTest.dll
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\GitHub.FavLanguage.UnitTest.pdb
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\obj\Debug\GitHub.FavLanguage.UnitTest.csproj.AssemblyReference.cache
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\obj\Debug\GitHub.FavLanguage.UnitTest.csproj.CoreCompileInputs.cache
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\obj\Debug\GitHub.FavLanguage.UnitTest.csproj.CopyComplete
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\obj\Debug\GitHub.FavLanguage.UnitTest.dll
+C:\Users\prane\source\repos\Application\GitHub.FavLanguage.UnitTest\obj\Debug\GitHub.FavLanguage.UnitTest.pdb
